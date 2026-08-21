@@ -12,3 +12,6 @@ __pycache__/
 Thumbs.dbstock_env/
 __pycache__/
 *.pyc
+stock_env/
+__pycache__/
+*.pyc
