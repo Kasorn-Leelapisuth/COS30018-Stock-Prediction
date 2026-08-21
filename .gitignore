@@ -18,3 +18,6 @@ __pycache__/
 stock_env/
 __pycache__/
 *.pyc
+stock_env/
+__pycache__/
+*.pyc
